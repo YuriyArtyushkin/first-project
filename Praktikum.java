@@ -1,1 +1,6 @@
-1
+public static void main(arg[]){
+}
+
+public class Praktikum {
+	
+}
